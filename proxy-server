@@ -1,0 +1,5 @@
+export http_proxy=http://your-proxy-server:port
+export https_proxy=https://your-proxy-server:port
+export ftp_proxy=ftp://your-proxy-server:port
+
+nano ~/.bashrc
